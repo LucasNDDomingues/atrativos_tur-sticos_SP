@@ -1,0 +1,11 @@
+
+
+.container{
+    display:flex;
+    gap:10px;
+    border: 1px solid red;
+    align-items: center;
+    flex-flow: column wrap;
+    justify-content:space-around ;
+    
+}
